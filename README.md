@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sibintek
-- 🌱 I’m currently learning SQL, Deep Learning instruments and so on
-- ⚡ Quote: In order for your words not to divarage with your deeds, you need to be silent and do nothing
+- 🔭 I’m currently working in NLMK group
+- 🌱 I’m currently learning ML instruments
+- ⚡ Quote: In order for your words do not to divarage with your deeds, you need to be silent and do nothing
 -->
